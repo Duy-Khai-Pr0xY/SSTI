@@ -2,7 +2,7 @@
 #### Server-Side Template Injection 
 #### Xảy ra khi người dùng có thể can thiệp vào cách máy chủ xử lý các Template
 # Hack Tricks
-#### {% raw %}, {% debug %}, {% endraw %}, ${ testing },.....
+#### {% raw %}, {% debug %}, {% endraw %}, ${ testing }, ${ testing }.....
 # ASP
 | Template Name | Payload Format |
 | :--- | :--- |
