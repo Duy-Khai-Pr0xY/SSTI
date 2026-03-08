@@ -5,5 +5,8 @@
 # ASP
 #### Razor @(1+2) 
 # Elixir 
-#### EEx 	<%= %>
-#### LEEx <%= %>
+| Template Name | Payload Format |
+| :--- | :--- |
+| EEx | `<%= %>` |
+| LEEx | `<%= %>` |
+| HEEx | `<%= %>` |
