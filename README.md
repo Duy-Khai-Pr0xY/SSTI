@@ -162,3 +162,5 @@
 | UnderscoreJS | `<% %>` |
 | Velocity / VelocityJS | `#set($X="") $X` |
 | VueJS | `{{ }}` |
+#---------------------------------------------------------------------------------------------------------------------------
+#### Recomend: https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master
