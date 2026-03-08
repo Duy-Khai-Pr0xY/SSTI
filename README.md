@@ -164,3 +164,4 @@
 | Velocity / VelocityJS | `#set($X="") $X` |
 | VueJS | `{{ }}` |
 #### Recomend: https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master
+#### Recommend hacktrick: https://book.hacktricks.wiki/en/pentesting-web/ssti-server-side-template-injection/index.html              
