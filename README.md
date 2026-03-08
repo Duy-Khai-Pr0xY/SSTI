@@ -3,7 +3,6 @@
 #### Xảy ra khi người dùng có thể can thiệp vào cách máy chủ xử lý các Template
 # Hack Tricks
 #### {% raw %}, {% debug %}, {% endraw %}
-#------------------------------------------------------------------------------------------------
 # ASP
 | Template Name | Payload Format |
 | :--- | :--- |
@@ -164,5 +163,4 @@
 | UnderscoreJS | `<% %>` |
 | Velocity / VelocityJS | `#set($X="") $X` |
 | VueJS | `{{ }}` |
-# ---------------------------------------------------------------------------------------------------------------------------
 #### Recomend: https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master
